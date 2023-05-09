@@ -1,4 +1,4 @@
-# real_app
+# Expense-Notes
 
 A new Flutter project.
 
